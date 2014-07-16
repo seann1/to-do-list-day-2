@@ -1,0 +1,18 @@
+#show-lists {
+  display: none;
+}
+
+.list {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.list:hover {
+  text-decoration: underline;
+}
+tr {
+  width: 300px;
+}
+td {
+  width: 150px;
+}
